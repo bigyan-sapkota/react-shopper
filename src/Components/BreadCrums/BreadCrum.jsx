@@ -1,5 +1,5 @@
 import React from "react";
-import "./Breadcrum.css";
+import "./BreadCrum.css";
 import arrow_icon from "../Assets/breadcrum_arrow.png";
 
 const BreadCrum = (props) => {
